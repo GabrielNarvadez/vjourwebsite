@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<html lang="zxx" class="js">
-	<head>
+ <html lang="zxx" class="js">
+	 <head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="description" content="CryptoCoin is a powerful Bitcoin Crypto Currency Wallet and Mining Template with full of customization options and features">
@@ -14,9 +14,9 @@
 		<link href="assets/css/style.css" rel="stylesheet">
 		<link href="assets/css/theme.css" rel="stylesheet">
 	</head>
-	<body>
+<body>
 	
-		<!-- Header --> 
+<!-- Header/Banner --> 
 		<header class="site-header header-s1 is-sticky">
 			
 			<!-- Navbar -->
@@ -28,10 +28,10 @@
 						<img class="logo logo-light" alt="logo" src="images/logo_white.png">
 					</a>
 					<!-- #end Logo -->
-					
 				</div>
 			</div>
 			<!-- #end Navbar -->
+			
 			<!-- Banner/Slider -->
 			<div class="page-head section row-vm light">
 				<div class="imagebg">
@@ -41,33 +41,20 @@
 					<div class="row text-center">
 						<div class="col-md-12">
 							<h1>Veux Global Trading Corp</h1>
-							
 						</div>
 					</div>
 				</div>
-			</div>
 			<!-- #end Banner/Slider -->
 		</header>
+<!--Message US-->
 
-<!-- Sign Up TAB -->
-		<div class="pricing-tab  section-pad section">
+	<!--Form-->
+	<div class="pricing-tab  section-pad section">
 			<div class="container">
-				<div class="tab-custom">
-				  <div class="row">
-					  <div class="col-md-6 col-md-offset-3">
-						  <ul class="nav nav-tabs ucap">
-							  <li class="active"><a href="#tab1" data-toggle="tab">MESSAGE US</a></li>
-							  <li><a href="#tab2" data-toggle="tab">VISION AND MISSION</a></li>
-							  
-							
-						  </ul>
-					  </div>
-				  </div>
-				  <div class="gaps size-2x"></div>
-				  <!-- Tab panes -->
-				  <div class="tab-content no-pd">
-					  <div class="tab-pane fade in active" id="tab1">
-						<div class="contact-form">
+		 			<div class="contact-form">
+					 <div class="row text-center">
+					 <h3 class="heading-section">Message Us</h3>
+					 </div><br/>
 							<p>Complete and submit the form below</p>
 							<form id="contact-form" class="form-message" action="form/contact.php" method="post">
 								<div class="form-results"></div>
@@ -96,10 +83,11 @@
 								<button type="submit" class="btn btn-alt">Submit</button>
 							</form>
 						</div>
-					  </div>
-					  <!--OUR VISION-->
-					  <div class="tab-pane fade" id="tab2">
-						<div class="row">
+	<!--End Section Form-->
+
+
+<!--Vision Mission -->
+		<div class="pricing-tab  section-pad section">
 							  <h3>OUR VISION</h3>
 							  <p>To be the leading and the most preferred General Trading Partner in the Country.</p>
 							  <h3>OUR MISSION</h3>
@@ -107,22 +95,10 @@
 								<br/><br/>We are guided by the values of integrity, professionalism and dedication to provide our customers with genuine service with a heart. In going business, we use up-to-date technology to ensure efficient business operations.
 								<br/><br/>We seek to produce healthy financial results for our investors. We ensure the development of potential, provide equitable rewards and encourage work-life balance among our employees. We aim to provide employment opportunities to the qualified least member of the society to the communities in which we operate.
 							</p>
-					  	</div>
-					  </div>
-					 <!--OUR MISSION--> 
-					  
-					  
-				  </div>
-			  </div>
-			   
-			</div>
-		</div><!--End Sign Up TAB -->
+		</div>		 
+			<!--End Section Vision Mission -->
 
-		   	      	
-
-		<!--Section -->
-       	<div class="section section-pad">
-       		<div class="container">
+<!--Who We Are -->
        			<div class="row row-vm">
        				<div class="col-md-5 tab-center">
        					<div class="round res-m-bttm"><img src="images/illustration-md-c.png" alt="photo-md"></div>
@@ -130,24 +106,18 @@
        				<div class="col-md-6 col-md-offset-1">
 						<div class="text-block">
 							<h2>Who we are</h2>
-							<p>Dedicated to being the top general trading partner of its target market, Veux Global Trading Corp. was established on July 30, 2020 with SEC Registration Number CS202005400.</p>
-							<p>Our office is located at Unit 503 Civic Prime Building, Civic Drive, Filinvest Corporate City, Alabang, Muntinlupa City.</p>
-							
+							<p>Dedicated to being the top general trading partner of its target market, Veux Global Trading Corp. was established on July 30, 2020 with SEC Registration Number CS202005400.
+							<br/><br/>Our office is located at Unit 503 Civic Prime Building, Civic Drive, Filinvest Corporate City, Alabang, Muntinlupa City.</p>
 						</div>
        				</div>
        			</div>
-       		</div>
-       	</div>
+       		
+			   
        	<!--End Section -->
 		
- 	<!--Section -->
-	 <div class="section section-pad">
-		<div class="container">
-			<div class="section-head">
-			 <div class="row text-center"></div>
-		
-			<div class="gaps size-3x"></div>
-		 <div class="row text-center">
+<!--Our Corporate Values -->
+		<div class="gaps size-3x"></div>
+		 	<div class="row text-center">
 			 <div class="col-md-4 col-sm-6">
 				 <div class="box box-small-dot box-alt-bg round">
 					   <span class="font-icon"><span class="pe pe-7s-lock"></span></span>
@@ -199,19 +169,14 @@
 
 	<!--End Section -->
 
-<!--Product Section-->
-<div class="section section-pad">
+<!--What We Offer-->
+
 	<div class="container">
 		<div class="section-head">
 		 <div class="row text-center">
 			 <div class="col-md-12">
 				 <h2 class="heading-section">What We Offer</h2>
 			 </div>
-			 
-		 </div>
-			
-	</div>	
-	
 	<!--ROW1-->
 	<div class="gaps size-3x"></div>
 	<div class="row">
@@ -340,10 +305,10 @@
 			</div><!-- col -->
 		 </div>
  	</div>
+	 </div></div> <!--Last Padding-->
+ 	<!--End Section-->
 
- <!--End Section-->
-
- <!--Our Officers-->
+<!--Our Officers-->
 	<div class="gaps size-2x"></div>
       			<div class="gaps size-4x hidden-xs hidden-sm"></div>
        			<div class="row text-center">
@@ -408,9 +373,9 @@
 				  </div>
 			  </div>
 			</div>
-<!--End Section-->
+	<!--End Section-->
       	
-       	<!-- Section -->
+<!--Partners Logo-->
 		<div class="section section-pad-md bg-grey">
 			<div class="container">
 				<div class="content row">
@@ -432,7 +397,7 @@
 		</div>
 		<!-- End Section -->
 		
-       	<!-- Section Footer -->
+<!--Section Footer-->
 		<div class="footer-section section section-pad-md light bg-footer">
 			<div class="imagebg footerbg">
 				<img src="images/footer-bg.png" alt="footer-bg">
@@ -460,14 +425,13 @@
 		</div>
 		<!-- End Section -->
 		
-		<!-- Copyright -->
+<!--Copyright-->
 		<div class="copyright light">
 			<div class="container">
 				<div class="row">
 					<div class="site-copy col-sm-7">
 						<p>Copyright &copy; 2023 Veux Global Trading Corp.</a></p>
 					</div>
-					
 				</div>
 			</div>
 		</div>
